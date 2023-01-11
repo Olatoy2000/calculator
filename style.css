@@ -64,7 +64,7 @@ button:active {
     background-color: rgba(78, 159, 212, 0.4)
 }
 
-.key {
+.keys {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-gap: 10px;
